@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML
 <!--- - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on --->
-- 📫 How to reach me taloeytoeyy@gmail.com
+- 📫 How to reach me chanakan.kritklang@gmail.com
 
 <!---
 taloeytoey/taloeytoey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
